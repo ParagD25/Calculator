@@ -1,11 +1,15 @@
 from tkinter import *
 window=Tk()
 window.title('Simple Calculator')
-#display=Entry(window,borderwidth=5,width=50)
-#display.grid(row=0,column=0,rowspan=2,columnspan=4)
-display_label=Label(window,width=45,height=7,bg='#242424')
-display_label.grid(row=0,column=0,rowspan=2,columnspan=4)
+display=Entry(window,width=11,bg='#242424',font=("Calibri",42),justify="right",fg='white')
+# display=Entry(window,font=("Calibri",12),justify="center",width=6,bg="#1E6FBA",fg="yellow",disabledbackground="#1E6FBA",disabledforeground="yellow",highlightbackground="black",highlightcolor="red",highlightthickness=1,bd=0)
 
+display.grid(row=0,column=0,rowspan=2,columnspan=4)
+# display_label=Label(window,width=45,height=7,bg='#242424')
+# display_label.grid(row=0,column=0,rowspan=2,columnspan=4)
+
+def insert_num(num):
+    pass
 #Defining Button
 button_1=Button(window,text='1',width=10,height=3,bg='#070707',fg='white') 
 button_2=Button(window,text='2',width=10,height=3,bg='#070707',fg='white')
