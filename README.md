@@ -38,6 +38,40 @@ Creating Simple Calculator using `Tkinter` library and simple funtions. ✖️ �
 
 ## Screenshots 📷:
 
+<h3 align="center"><i>Calcultor_gui.py  Script: </i></h3>
+<h4 align="center">Calculator GUI</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/Calculator_GUI.png" alt="default" width="40%">
+</p>
+
+<h3 align="center"><i>Calcultor.py  Script: </i></h3>
+<h4 align="center">Addition</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_add.png" alt="addition" width="40%">
+</p>
+<h4 align="center">Subtraction</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_sub.png" alt="subtraction" width="40%">
+</p>
+<h4 align="center">Single Division</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_div_1.png" alt="div_1" width="40%" height="325">
+  &emsp;
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_div_2.png" alt="div_2" width="40%" height="325">
+</p>
+<h4 align="center">Multiple Division</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_MD.png" alt="multi_div" width="40%">
+</p>
+<h4 align="center">Multiplication</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_mult.png" alt="multiplication" width="40%">
+</p>
+<h4 align="center">Averaging</h4>
+<p align="center">
+  <img src="https://github.com/ParagD25/Calculator/blob/master/Images/terminal_avg.png" alt="average" width="40%">
+</p>
+
 
 ## Contributing ©️:
 
