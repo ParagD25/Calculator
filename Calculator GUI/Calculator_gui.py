@@ -7,6 +7,9 @@ display.grid(row=0,column=0,rowspan=2,columnspan=4)
 # display_label=Label(window,width=45,height=7,bg='#242424')
 # display_label.grid(row=0,column=0,rowspan=2,columnspan=4)
 
+myicon=PhotoImage(file='Calculator GUI\calc_icon.png')
+window.iconphoto(False,myicon)
+
 def insert_num(num):
     current=display.get()
     display.delete(0,END)
